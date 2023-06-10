@@ -1,4 +1,4 @@
-package ovh.gnztmpz.appbelajarintent;
+package ovh.gnztmpz.latihanactivity;
 
 import org.junit.Test;
 

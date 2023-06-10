@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'ovh.gnztmpz.appbelajarintent'
+    namespace 'ovh.gnztmpz.latihanactivity'
     compileSdk 32
 
     defaultConfig {
-        applicationId "ovh.gnztmpz.appbelajarintent"
+        applicationId "ovh.gnztmpz.latihanactivity"
         minSdk 19
         targetSdk 32
         versionCode 1

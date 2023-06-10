@@ -1,4 +1,4 @@
-package ovh.gnztmpz.appbelajarintent;
+package ovh.gnztmpz.latihanactivity;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("ovh.gnztmpz.appbelajarintent", appContext.getPackageName());
+        assertEquals("ovh.gnztmpz.latihanactivity", appContext.getPackageName());
     }
 }
