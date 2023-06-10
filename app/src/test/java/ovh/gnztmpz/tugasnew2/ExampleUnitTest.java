@@ -1,4 +1,4 @@
-package ovh.gnztmpz.appbelajarintent;
+package ovh.gnztmpz.tugasnew2;
 
 import org.junit.Test;
 
